@@ -1,3 +1,9 @@
+"""
+References:
+https://www.geeksforgeeks.org/luhn-algorithm/
+https://en.wikipedia.org/wiki/Luhn_algorithm
+"""
+
 CHECK_NUMBER = "17893729974"
 
 """
